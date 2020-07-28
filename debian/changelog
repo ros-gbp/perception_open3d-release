@@ -1,0 +1,7 @@
+ros-melodic-open3d-conversions (0.0.2-1stretch) stretch; urgency=high
+
+  * Initial port of code from unr-arl/open3d_ros
+
+ -- Pranay Mathur <matnay17@gmail.com>  Tue, 28 Jul 2020 07:00:00 -0000
+
+
